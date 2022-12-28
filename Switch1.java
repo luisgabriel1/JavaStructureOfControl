@@ -2,6 +2,8 @@ package Udemy;
 
 public class Switch1 {
     public static void main(String[] args) {
+        
+        //Here below i using the switch and cases.
 
         String  DaysOfWeek= "2";
 
