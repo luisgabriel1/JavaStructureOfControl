@@ -3,6 +3,8 @@ package Udemy;
 import java.util.Scanner;
 
 public class Challenge1 {
+    
+    // Here too it could using the switch cases.
 
     // Here below have to do equal the example.
     /*
